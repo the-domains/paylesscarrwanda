@@ -1,0 +1,23 @@
+name: PaylessCarRWanda
+favicon: null
+layout_spectrum: 0.05982448300346732
+typography_spectrum: 0.965586778242141
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.612768130376935
+  lightness: 0.5924928791355342
+  saturation: 0.9828350653406233
+  rhythmicContrast: 0.9019441513810307
+purpose: []
